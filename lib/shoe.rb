@@ -15,7 +15,7 @@ class Shoe
   end
   
   def color=(_color)
-    @color = "red"
+    @color = _color
   end
   
   def size
