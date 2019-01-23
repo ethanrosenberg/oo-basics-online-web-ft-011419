@@ -32,7 +32,7 @@ class Shoe
   
   def cobble
     puts" been replaced"
-    
+    condition = "old"
   end
   
 end
