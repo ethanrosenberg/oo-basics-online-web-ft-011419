@@ -26,8 +26,13 @@ class Shoe
     @condition = "tattered"
   end
   
+  def condition=(new_condition)
+    @condition = new_condition
+  end
+  
   def cobble
     puts" been replaced"
+    
   end
   
 end
