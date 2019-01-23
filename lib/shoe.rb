@@ -10,5 +10,13 @@ class Shoe
     @nike = "Nike"
   end
   
+  def color
+    @nike = "Nike"
+  end
+  
+  def size
+    @nike = "Nike"
+  end
+  
 end
   
