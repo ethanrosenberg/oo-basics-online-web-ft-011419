@@ -8,6 +8,7 @@ class Shoe
   
   def brand
     @nike = "Nike"
+  end
   
 end
   
