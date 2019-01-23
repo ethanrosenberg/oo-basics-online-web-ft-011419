@@ -30,6 +30,10 @@ class Shoe
     @material = "suede"
   end
   
+  def material=(_material)
+    @material = _material"
+  end
+  
   def condition
     @condition = "tattered"
   end
