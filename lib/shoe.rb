@@ -11,11 +11,23 @@ class Shoe
   end
   
   def color
-    @nike = "Nike"
+    @color = "red"
   end
   
   def size
-    @nike = "Nike"
+    @size = 9.5
+  end
+  
+  def material
+    @material = "suede"
+  end
+  
+  def condition
+    @condition = "tattered"
+  end
+  
+  def cobble
+    puts" been replaced"
   end
   
 end
